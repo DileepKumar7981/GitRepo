@@ -1,2 +1,2 @@
 # GitRepo
-This is my Git repository
+This is my Git repository. Good going.
